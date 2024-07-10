@@ -1,1 +1,1 @@
-some of the suckless slstatus code taken from mashed
+configuration files have parts taken from other places.
