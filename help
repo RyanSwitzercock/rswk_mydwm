@@ -1,1 +1,3 @@
 # wal -i (path to file) to set the wallpaper and color sheme
+# picom config is in /etc/xdg/picom.conf
+# alacritty config is hidden at .config/alacritty
