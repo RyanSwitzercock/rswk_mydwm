@@ -1,7 +1,0 @@
-#
-# ~/.bash_profile
-#
-
-[[ -f ~/.bashrc ]] && . ~/.bashrc
-exec mount /dev/sda2 /media/games &
-startx
