@@ -12,8 +12,8 @@ alias ls='ls --color=auto'
 alias grep='grep --color=auto'
 
 # pacman #
-alias paci='sudo pacman -S'
-alias pacu='sudo pacman -Syu'
+alias paci='sudo pacman -S --needed'
+alias pacu='sudo pacman -Syu --needed'
 alias pacr='sudo pacman -Rsc'
 
 
